@@ -1,3 +1,9 @@
+//Name: Ruchanshi Desai
+//File name:user.js
+//ID: 100729822
+//date: 17 April 2020
+
+
 // require modules for our user Model
 let mongoose = require('mongoose');
 let passportLocalMongoose = require('passport-local-mongoose');
